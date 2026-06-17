@@ -1,12 +1,72 @@
-# React + Vite
+# Winc Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React application built as part of the Winc Academy Front-End Development curriculum.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project was created to practice the fundamentals of React, including component creation, JSX, styling, and project structure.
 
-## Expanding the ESLint configuration
+The application currently displays weather information using a reusable React component and a set of weather icons.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+* Built with React and Vite
+* Reusable `WeatherIcon` component
+* Custom weather icon assets
+* Component-based project structure
+* CSS styling and layout
+
+## Screenshot
+
+![Winc Weather App](./screenshots/weather-app-home.png)
+
+## Technologies Used
+
+* React
+* JavaScript (ES6+)
+* Vite
+* HTML5
+* CSS3
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Primalrs/winc-weather-app.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd winc-weather-app
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in the terminal.
+
+## What I Learned
+
+This project helped me practice:
+
+* Creating React components
+* Importing and exporting components
+* Working with JSX
+* Managing static assets
+* Organizing a React project
+* Using Git and GitHub for version control
+
+## Author
+
+Created by Primalrs while following the Winc Academy Front-End Development program.
