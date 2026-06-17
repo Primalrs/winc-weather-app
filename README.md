@@ -18,7 +18,7 @@ The application currently displays weather information using a reusable React co
 
 ## Screenshot
 
-![Winc Weather App](./screenshots/weather-app-home.png)
+![Winc Weather App](/screenshots/initialCommitVisual.jpg)
 
 ## Technologies Used
 
